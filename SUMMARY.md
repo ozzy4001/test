@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Introduce](README.md)
-* [menuA](test.md)
-* [menuB](menub.md)
-* [menuC](menuc.md)
+
+## group A
+
+* [menuA](group-a/test.md)
+* [menuB](group-a/menub.md)
+* [menuC](group-a/menuc.md)
+* [menuD](group-a/menud.md)
 
 ## Foundation
 
